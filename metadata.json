@@ -1,0 +1,6 @@
+{
+  "name": "Tool Generator - GitHub Sync & Utility Builder",
+  "description": "An interactive utility tool generator and playground integrated with GitHub repository Hamodi2005hg/toolgenrated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
